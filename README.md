@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services, Inc
 
 ## Purpose
-A website that advertises the social media marketing services of Horiseon, includeing search engine optimization, online reputation management and social media marketing.
+A website that advertises the social media marketing services of Horiseon, including search engine optimization, online reputation management and social media marketing.
 
 ## Built With
 * HTML
