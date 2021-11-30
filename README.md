@@ -9,7 +9,8 @@ A website that advertises the social media marketing services of Horiseon, inclu
 
 ## Website
 https://8bitgaming.github.io/Horiseon-CodeCleanup-01/
-![screenshot of horiseon homepage](../assets/images/Horiseon_screenshot.PNG?raw=true)
+
+![screenshot of horiseon homepage](./assets/images/Horiseon_screenshot.PNG?raw=true)
 
 
 ## 2.0 Version Changelog
